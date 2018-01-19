@@ -1,0 +1,61 @@
+html, body {
+    margin: 0;
+    padding: 0;
+}
+
+h1, form, footer {
+    text-align: center;
+}
+.header img {
+    position:absolute;
+    left: 10px;
+}
+
+h1 {
+    margin: 5px 5px 60px;
+    background: #F0F017;
+    padding: 40px;
+    font-size: 60px;
+    border: 3px solid #CCD7DC;
+    border-radius: 5px;
+    font-family: 'Sedgwick Ave Display', cursive;
+    text-transform: capitalize;
+
+}
+
+textarea {
+    width: 300px;
+    height: 300px;
+}
+
+footer {
+    margin-top: 40px;
+    background: #b3bdc2;
+    padding: 12px;
+}
+
+input {
+    padding: 20px;
+    border: 4px solid #F0F017;
+    border-radius: 5px;
+    margin-top: 20px;
+    font-size: 30px;
+    text-transform: capitalize;
+}
+
+.result {
+    margin: 10px 10px 30px;
+    padding: 10px;
+    border: 4px solid #000000;
+    background: #c23f83;
+    text-align: center;
+    color: #CCD7DC;
+}
+
+.bullshit {
+    background: #19c21c;
+}
+
+.nonbullshit {
+    background: #c21114;
+}
