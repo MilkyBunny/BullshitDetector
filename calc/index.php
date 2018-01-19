@@ -15,7 +15,7 @@
 
 <form method="POST">
 
-    <input type="text" name="v1" value="<?php echo $_POST['v1']; ?>"/>+
+    <input type="text" name="v1" value="<?php echo $_POST['v1']; ?>"/> +
     <input type="text" name="v2" value="<?php echo $_POST['v2']; ?>"/>
     <input type="submit" value="sum?"/>
 
